@@ -11,3 +11,5 @@ Skype: dsheikman
 To contribute professional skills to achieving your company's goals.
 
 To solve problems in a creative and effective manner in a challenging position.
+
+Work experience
