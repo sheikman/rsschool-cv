@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+.main-container {
+    max-width: 1024px;
+    display: inline-block;
+    
+}
